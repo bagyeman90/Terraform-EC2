@@ -1,6 +1,7 @@
 # Terraform-EC2
 
 Infrastructure Overview
+
 This Terraform script orchestrates a basic web server infrastructure on AWS. It sets up a Virtual Private Cloud (VPC) with an internet gateway, a subnet, security groups, and an EC2 instance running Ubuntu with Apache2.
 
 Key Components:
